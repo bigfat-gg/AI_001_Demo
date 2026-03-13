@@ -1,7 +1,7 @@
 # Environment & secrets
 .env
 .env.*
-clawdbot.json
+openclarw.json
 
 # OS
 .DS_Store
