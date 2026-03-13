@@ -1,7 +1,7 @@
 # Environment & secrets
 .env
 .env.*
-openclarw.json
+openclaw.json
 
 # OS
 .DS_Store
